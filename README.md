@@ -13,3 +13,4 @@ could be built with [Sphinx](http://sphinx-doc.org/):
 3. Run `make html` in documentation folder. Ensure that `conf.py` (documentation build configuration file) is there.
 
 Documentation will be available in `_build/html` folder.
+
