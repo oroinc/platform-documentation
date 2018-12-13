@@ -10,9 +10,7 @@ OroPlatform is an open-source platform made for rapid application development of
 
     <div class="guideline__item" >
        <div style="text-align: center">
-          <a class="reference internal" href="install-upgrade">
-             <h3><i class="guideline__icon fa fa-cogs"></i><br>
-             Installation Guide</h3></a>
+          <a class="reference internal" href="install-upgrade"><h3><i class="guideline__icon fa fa-cogs"></i><br>Installation Guide</h3</a>
        </div>
        <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
           <ul class="guideline__list">
@@ -26,8 +24,7 @@ OroPlatform is an open-source platform made for rapid application development of
 
       <div class="guideline__item" >
          <div style="text-align: center">
-            <a class="reference internal" href="architecture">
-               <h3><i class="guideline__icon fa fa-linode"></i><br> Architecture Guide</h3></a>
+            <a class="reference internal" href="architecture"><h3><i class="guideline__icon fa fa-linode"></i><br> Architecture Guide</h3></a>
          </div>
          <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
             <ul class="guideline__list">
@@ -56,8 +53,7 @@ OroPlatform is an open-source platform made for rapid application development of
    <div class="guideline">
       <div class="guideline__item" >
          <div style="text-align: center">
-            <a class="reference internal" href="community">
-               <h3><i class="guideline__icon fa fa-users"></i><br> Contributing</h3></a>
+            <a class="reference internal" href="community"><h3><i class="guideline__icon fa fa-users"></i><br> Contributing</h3></a>
          </div>
          <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
             <ul class="guideline__list">
@@ -69,9 +65,7 @@ OroPlatform is an open-source platform made for rapid application development of
       </div>
       <div class="guideline__item" >
          <div style="text-align: center">
-            <a class="reference internal" href="community">
-               <h3><i class="guideline__icon fa fa-flag"></i><br> Support</h3></a>
-            </a>
+            <a class="reference internal" href="community"><h3><i class="guideline__icon fa fa-flag"></i><br> Support</h3></a>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
             <ul class="guideline__list">
@@ -83,7 +77,7 @@ OroPlatform is an open-source platform made for rapid application development of
       </div>
       <div class="guideline__item" >
          <div style="text-align: center">
-         <h3><i class="guideline__icon fa fa-bullhorn"></i><br> Announcements</h3></a>
+         <h3><i class="guideline__icon fa fa-bullhorn"></i><br> Announcements</h3>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
              <ul class="guideline__list">
