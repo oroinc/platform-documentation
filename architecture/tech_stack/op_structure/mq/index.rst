@@ -1,5 +1,3 @@
-:orphan:
-
 .. _op-structure--mq--index:
 
 Message Queue

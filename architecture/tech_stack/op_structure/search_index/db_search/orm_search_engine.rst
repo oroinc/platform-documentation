@@ -1,5 +1,3 @@
-:orphan:
-
 .. _orm_search_engine:
 
 ORM Search Engine
