@@ -1,3 +1,5 @@
+:orphan:
+
 .. _op-structure--mq--rabbitmq--intro:
 
 AmqpMessageQueue Component (Enterprise Edition Only)

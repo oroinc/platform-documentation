@@ -1,3 +1,5 @@
+:orphan:
+
 .. _op-structure--mq--rabbitmq--configure:
 
 Configure Message Queue with RabbitMQ for Production

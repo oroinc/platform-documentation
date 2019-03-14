@@ -1,3 +1,5 @@
+:orphan:
+
 .. _admin-op-structure:
 
 Operational Structure
@@ -22,7 +24,7 @@ API Client
 
 Application Programming Interface exposed over the web is a required part of business application and allows to integrate it into the enterprise infrastructure. Oro REST API allows any 3rd party API Client to consume application data and implement complex business scenarios related over HTTP(s) protocol.
 
-See more information about the `the API <https://oroinc.com/oroplatform/doc/current/dev-guide/web-api>`__. 
+See more information about the `API <https://oroinc.com/b2b-ecommerce/doc/current/dev-guide/web-api>`_. 
 
 Web Server
 ^^^^^^^^^^
@@ -64,7 +66,7 @@ Application functions use cache in order to optimize complex operations processi
 
 .. See more information about Redis.
 
-See more information about the `cache configuration <https://oroinc.com/oroplatform/doc/current/bundles/CacheBundle/cache>`__.
+See more information about the :ref:`cache configuration <op-structure--cache>`.
 
 Message Queue
 ~~~~~~~~~~~~~
@@ -87,5 +89,4 @@ Application files related to the user data (attachments, images, documents) are 
    :hidden:
 
    search_index/index
-   database/index
    mq/index
