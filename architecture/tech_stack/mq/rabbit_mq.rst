@@ -1,4 +1,4 @@
-:orphan:
+.. _op-structure--mq--rabbitmq :
 
 RabbitMQ Transport (via AmqpOroMessageQueue Bundle)
 ===================================================
@@ -172,8 +172,8 @@ The following exception
 .. code-block:: none
     :linenos:
 
-      [PhpAmqpLib\Exception\AMQPRuntimeException]
-      Broken pipe or closed connection
+    [PhpAmqpLib\Exception\AMQPRuntimeException]
+    Broken pipe or closed connection
 
 might be caused by one of the following reasons:
 
