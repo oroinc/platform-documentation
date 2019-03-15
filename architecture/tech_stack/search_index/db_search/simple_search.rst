@@ -1,5 +1,3 @@
-:orphan:
-
 .. _simple_search:
 
 API Simple Search

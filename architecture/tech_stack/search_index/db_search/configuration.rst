@@ -1,5 +1,3 @@
-:orphan:
-
 .. _db-search--configuration:
 
 Configuration
