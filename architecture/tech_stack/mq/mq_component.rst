@@ -1,5 +1,3 @@
-:orphan:
-
 .. _op-structure--mq--complete:
 
 Message Queue Component in Oro Application
